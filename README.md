@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: 1η άσκηση Φωτογραμμετρία
 
 ## 🤓 Course overview and learning outcomes 
 
